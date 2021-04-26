@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed4db2b6-e371-48cc-9e49-025c301547fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/open.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/restaurants/components/restaurant-info-card.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/restaurants/components/restaurant-info-card.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/restaurants/screens/restaurant.screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/restaurants/screens/restaurant.screen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,5 +39,11 @@
       <updated>1618461516956</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="143" width="1200" height="637" key="AVDManager" timestamp="1619397735663">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="120" y="143" width="1200" height="637" key="AVDManager/0.23.1440.877/-1196.23.1196.873@0.23.1440.877" timestamp="1619397735663" />
   </component>
 </project>
